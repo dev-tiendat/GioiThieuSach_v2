@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24756554620",
+    "project_id": "bookintroduction-b31d0",
+    "storage_bucket": "bookintroduction-b31d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24756554620:android:1a0e8ed9591adcd68b72f9",
+        "android_client_info": {
+          "package_name": "com.bookintroducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24756554620-g5eija8efujobbkf2g8drkpfts1ms5sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsPuEHJAGPQ2n60nsbrUc00mP3hUpoJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24756554620-g5eija8efujobbkf2g8drkpfts1ms5sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
